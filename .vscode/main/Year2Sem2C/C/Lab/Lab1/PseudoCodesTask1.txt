@@ -1,0 +1,11 @@
+Name: Chin Jian Jie
+Matric Number: A175894
+
+//PseudoCode for Task 1//
+1.Import the io package
+2.Import the math package
+3.Initialize variable which is int a ,b and c where c is the output variable.
+4.Initialize a scanner for the input of the a and b.
+5.Construct a function to compute for calculating the hypotenuse which using hypotf function.
+6.Print the output of the hypotenuse.
+

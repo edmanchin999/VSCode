@@ -1,0 +1,17 @@
+<?php declare(strict_types=1); // strict requirement
+$t1d1 = date("H");
+
+if ($t1dd < "12") {
+         echo "Null Value!";
+} elseif ($t1d1 < "12") {
+        echo "Good Morning*****";
+} else {
+       echo "Have a good night!";
+}
+
+function addNumbers(float $d, float $x) : int {
+       return (int)($d + $x);
+}
+
+echo addNumbers(6.8, 8.6);
+?>

@@ -1,0 +1,15 @@
+Name: Chin Jian Jie
+Matric Number: A175894
+
+//PseudoCode For Task 2//
+1.Import the package.
+2.Initialize a double variable which is named temperature.
+3.Initialize a scanner for the input for the temparature.
+4.using if else ladder control statement 
+5.when temparature is less than 0, the output will print out "It is freezing weather".
+6.when temparature is between 0 and 9, the output will print out "It is very cold weather"
+7.when temparature is between 10 and 19, the output will print out "It is a cold weather"
+8.when temparature is between 20 and 29, the output will print out "It is a normal temperature."
+9.when temparature is between 30 and 39, the output will print out "It is a hot weather"
+10.when temparature is more than 40, the output will print out "It is very hot weather"
+

@@ -1,0 +1,11 @@
+Name: Chin Jian Jie
+Matric Number: A175894
+
+//PseudoCode for Task 1//
+1. Initialize the array,sum variable and average variable 
+2.create a for loop 
+3.Create a input for the user
+4.scan the input from the user and add it into the array
+5.Sum up all the array
+6.perform mean calculation of the mean array
+7.print out the mean of the array

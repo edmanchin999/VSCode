@@ -1,0 +1,16 @@
+for i in range (66):
+        j.forward(7+i)
+        j.right(30)
+        j.penup()
+        j.forward(7+i)
+        j.pendown()
+
+
+ for i in range(250):
+        t.pendown()
+        t.fd(7+i)
+        t.right(30)
+        t.penup()
+        t.fd(7+i)
+        t.right(30)
+        t.pendown

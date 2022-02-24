@@ -1,0 +1,12 @@
+Name: Chin Jian Jie
+Matric Number: A175894
+
+//PseudoCode for Task 1//
+1. Cube of a number num is cube = num * num * num.
+2. write a separate function for this simple statement.
+3. assign a name to the function, example cube().
+4. The function should accept a number whose cube is to be calculated. Hence, function definition is
+cube(double num).
+5. Finally, the function should return cube of num passed. Hence, return type of function should be
+double.
+6. After observing above points function declaration looks like double cube(double num);

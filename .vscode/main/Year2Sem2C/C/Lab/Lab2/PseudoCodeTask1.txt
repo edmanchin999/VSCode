@@ -1,0 +1,12 @@
+Name: Chin Jian Jie
+Matric Number: A175894
+
+//PseudoCode for Task 2//
+1.include the stdio.h
+2.construct a recursive function with the parameter of 2 output a and b
+3.apply the gcd algorithm within the recursive function
+4.if the b is 0 , then return a 
+5.else return back the function to make recursion.
+6.create a main function to run the program
+7.create a scanner for the user input a and b.
+8.Finally create a output with all the parameter a , b and also the return value of the function.
